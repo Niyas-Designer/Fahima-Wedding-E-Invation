@@ -19,32 +19,32 @@ export default function FloralMotif({ className = "", flip = false }) {
       />
       <path
         d="M68 104C52 92 46 76 50 58C67 68 77 82 68 104Z"
-        fill="#5F4524"
+        fill="#B7C2A5"
         fillOpacity="0.72"
       />
       <path
         d="M92 72C76 60 71 43 77 25C94 37 101 52 92 72Z"
-        fill="#5F4524"
+        fill="#7F8865"
         fillOpacity="0.66"
       />
       <path
         d="M111 45C124 25 144 19 164 24C154 44 137 52 111 45Z"
         fill="#FAF8F3"
-        stroke="#5F4524"
+        stroke="#7B5725"
         strokeWidth="1.5"
       />
       <path
         d="M39 131C28 114 27 98 36 83C48 98 49 114 39 131Z"
         fill="#FAF8F3"
-        stroke="#5F4524"
+        stroke="#B7C2A5"
         strokeWidth="1.5"
       />
-      <circle cx="111" cy="45" r="4" fill="#5F4524" />
-      <circle cx="39" cy="131" r="3" fill="#5F4524" />
+      <circle cx="111" cy="45" r="4" fill="#7B5725" />
+      <circle cx="39" cy="131" r="3" fill="#7B5725" />
       <defs>
         <linearGradient id={gradientId} x1="24" y1="142" x2="138" y2="34" gradientUnits="userSpaceOnUse">
-          <stop stopColor="#5F4524" />
-          <stop offset="1" stopColor="#5F4524" />
+          <stop stopColor="#7F8865" />
+          <stop offset="1" stopColor="#7B5725" />
         </linearGradient>
       </defs>
     </svg>

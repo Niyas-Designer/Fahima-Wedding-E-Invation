@@ -29,7 +29,6 @@ export default function Countdown({ date }) {
 
   return (
     <SectionShell
-      className="two-tone-section"
       eyebrow="The Journey Begins Soon"
       title="Counting the moments until Allah's beautiful decree unfolds"
     >

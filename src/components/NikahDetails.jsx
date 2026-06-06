@@ -13,7 +13,6 @@ export default function NikahDetails({ event }) {
   return (
     <SectionShell
       id="details"
-      className="two-tone-section"
       eyebrow="The Nikah"
       // title="An evening filled with love, mercy, and Allah's blessings"
     >

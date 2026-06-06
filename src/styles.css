@@ -191,15 +191,6 @@ a {
     linear-gradient(180deg, rgba(250, 248, 243, 0.96), rgba(245, 245, 242, 0.98));
 }
 
-.two-tone-section {
-  background: #faf8f3;
-  color: #5f4524;
-}
-
-.two-tone-section::after {
-  opacity: 0.18;
-}
-
 .envelope-wrap {
   perspective: 1200px;
 }

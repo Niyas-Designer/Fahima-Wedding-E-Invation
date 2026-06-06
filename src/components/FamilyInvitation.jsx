@@ -4,7 +4,6 @@ import SectionShell from "./SectionShell";
 export default function FamilyInvitation({ family }) {
   return (
     <SectionShell
-      className="two-tone-section"
       eyebrow="With Our Families"
       title="Invited with love, received with du'a"
     >

@@ -5,12 +5,12 @@ export default {
     extend: {
       colors: {
         ivory: "#FAF8F3",
-        pearl: "#FAF8F3",
-        sage: "#5F4524",
-        olive: "#5F4524",
-        champagne: "#5F4524",
-        ink: "#5F4524",
-        cocoa: "#5F4524",
+        pearl: "#F5F5F2",
+        sage: "#B7C2A5",
+        olive: "#7F8865",
+        champagne: "#7B5725",
+        ink: "#24241F",
+        cocoa: "#635B4B",
       },
       fontFamily: {
         heading: ['"Cormorant Garamond"', '"Playfair Display"', "serif"],
